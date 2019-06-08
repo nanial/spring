@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9572e3b7-1884-4f86-9676-445ef9db6e31" name="Default Changelist" comment="">
+    <list default="true" id="9572e3b7-1884-4f86-9676-445ef9db6e31" name="Default Changelist" comment="springEx">
       <change afterPath="D:/JetBrains/IntelliJ IDEA Community Edition 2018.2.4/jre64/lib/charsets.jar" afterDir="false" />
       <change afterPath="D:/JetBrains/IntelliJ IDEA Community Edition 2018.2.4/jre64/lib/ext/access-bridge-64.jar" afterDir="false" />
       <change afterPath="D:/JetBrains/IntelliJ IDEA Community Edition 2018.2.4/jre64/lib/ext/cldrdata.jar" afterDir="false" />
@@ -1376,26 +1376,7 @@
       <change afterPath="$APPLICATION_HOME_DIR$/plugins/spy-js/server/node_modules/acorn/src/node.js" afterDir="false" />
       <change afterPath="$APPLICATION_HOME_DIR$/plugins/spy-js/server/node_modules/acorn/src/options.js" afterDir="false" />
       <change afterPath="$APPLICATION_HOME_DIR$/plugins/spy-js/server/node_modules/acorn/src/statement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/429eeab3-b14f-4d23-8025-ed92cd7dcbb8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/domain/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/repos/MessageRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/domain/Message.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/repos/MessageRepo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/config/WebSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/controllers/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/controllers/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/controllers/RegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/controllers/RegistrationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/config/WebSecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/controllers/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/controllers/MainController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/controllers/RegistrationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/controllers/RegistrationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -1473,7 +1454,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -1780,7 +1765,7 @@
       <workItem from="1559281373380" duration="3817000" />
       <workItem from="1559542234005" duration="690000" />
       <workItem from="1559703680470" duration="5306000" />
-      <workItem from="1559979757630" duration="2229000" />
+      <workItem from="1559979757630" duration="2724000" />
     </task>
     <task id="LOCAL-00001" summary="springEx">
       <created>1559285272475</created>
@@ -1789,14 +1774,22 @@
       <option name="project" value="LOCAL" />
       <updated>1559285272475</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="springEx">
+      <created>1559983251527</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559983251527</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64240000" />
+    <option name="totallyTimeSpent" value="64735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18164313" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1815,9 +1808,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="SQL" order="7" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3297587" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49935815" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5006418" side_tool="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5006418" side_tool="true" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3297587" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
@@ -2120,7 +2113,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
