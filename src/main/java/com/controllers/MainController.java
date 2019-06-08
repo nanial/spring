@@ -1,10 +1,5 @@
 package com.controllers;
 
-import com.domain.Product;
-import com.repos.ProductRepo;
-import com.samskivert.mustache.Mustache;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import java.util.Map;

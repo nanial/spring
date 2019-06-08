@@ -19,11 +19,12 @@ public class RegistrationController {
     public String registration(){
         return "registration";
     }
+
     @PostMapping(name = "registration")
     public String addUser(User user, Map<String, Object> model){
        User userFromDB = userRepo.findByName(user.getName());
        if(userFromDB != null){
-           model.put("product", "User exists");
+           model.put("message", "User exists");
            return "registration";
        }
        user.setRoles(Collections.singleton(Role.USER));
